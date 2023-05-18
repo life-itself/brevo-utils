@@ -1,6 +1,14 @@
+---
+title: "Test digi 101 - day 1"
+subject: "testing"
+senderName: "Life itself"
+senderEmail: "hello@lifeitself.org"
+replyTo: "hello@openrevolution.net"
+---
+
 # [Day 1] Plagues and whips: why mental models matter
 
-## Getting the right mental model {#getting-the-right-mental-model}
+## Getting the right mental model
 
 Getting a proper handle on the core principles of the digital world is important.
 

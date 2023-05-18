@@ -1,3 +1,11 @@
+---
+title: "Test digi 101 - day 2"
+subject: "testing"
+senderName: "Life itself"
+senderEmail: "hello@lifeitself.org"
+replyTo: "hello@openrevolution.net"
+---
+
 # [Day 2] Atoms vs Bits: Legacy Economy vs Digital Economy
 
 Digital stuff like software and database are different from physical goods like bread and steel
@@ -36,6 +44,6 @@ Furthermore, the creative process for digital goods is inherently uncertain and 
 
 As creating new copies of digital goods is near costless, essentially all of the costs of their production come from creating the first copy. This is totally unlike the production of physical goods, where there is a cost attached to each new copy made; each one requires the use of materials and the completion of some form of production process to turn them into the finished article, all of which costs money. 
 
-## Summary and tomorrow’s lesson {#summary-and-tomorrow’s-lesson}
+## Summary and tomorrow’s lesson
 
 This radical difference in how the production process works, and how the costs of production are structured, means that digital goods are fundamentally different to their physical counterparts, and therefore, require different mental models to ensure they operate efficiently. Tomorrow, we’ll outline the main implications of this difference, but before you can remind yourself using the summary table below:
