@@ -4,9 +4,10 @@ if (process.env.NODE_ENV !== 'production') {
   config()
 }
 
-import * as fs from "fs"
-import readlineSync from "readline-sync";
+import * as fs from "fs";
+import { input } from "@inquirer/prompts";
 import { remark } from 'remark';
+import remarkGfm from "remark-gfm";
 import remarkHtml from 'remark-html';
 import remarkFrontmatter from "remark-frontmatter";
 import remarkParseFrontmatter from "remark-parse-frontmatter";
@@ -14,7 +15,9 @@ import remarkParseFrontmatter from "remark-parse-frontmatter";
 import SibApiV3Sdk from "sib-api-v3-sdk";
 
 (async () => {
-  const markdownFile = readlineSync.question("Path to markdown file: ");
+  const markdownFile = await input({
+    message: "Enter path to markdown file:"
+  })
 
   const content = fs.readFileSync(markdownFile, "utf-8", (err,_) => {
     if (err) throw new Error("Unable to read file")
@@ -23,14 +26,15 @@ import SibApiV3Sdk from "sib-api-v3-sdk";
   const { data: { frontmatter }, value } = remark()
     .use(remarkFrontmatter)
     .use(remarkParseFrontmatter)
+    .use(remarkGfm)
     .use(remarkHtml)
     .processSync(content)
 
   const templateId = frontmatter?.id
   const html = `<!DOCTTYPE html><html><body>${value}</body></html>`
-  
+
   let defaultClient = SibApiV3Sdk.ApiClient.instance;
-  
+
   let apiKey = defaultClient.authentications['api-key'];
   apiKey.apiKey = process.env.BREVO_API_KEY;
 
@@ -38,13 +42,12 @@ import SibApiV3Sdk from "sib-api-v3-sdk";
   let apiSenderInstance = new SibApiV3Sdk.SendersApi()
 
   await apiSenderInstance.getSenders().then(function(data) {
-    defaultSender = data.senders[0]
+    defaultSender = data.senders[data.senders.length - 1]
   }, function(error) {
     console.error(error);
   });
-  
-  let apiInstance = new SibApiV3Sdk.TransactionalEmailsApi();
-  
+
+  let apiInstance = new SibApiV3Sdk.TransactionalEmailsApi()
   let smtpTemplate
 
   if (templateId) {
@@ -72,20 +75,21 @@ import SibApiV3Sdk from "sib-api-v3-sdk";
     smtpTemplate.replyTo = frontmatter?.replyTo ?? '[DEFAULT_REPLY_TO]';
   }
   
+  smtpTemplate.toField = '{FNAME}'
   smtpTemplate.htmlContent = html;
   smtpTemplate.isActive = true;
 
   if (templateId) {
     await apiInstance.updateSmtpTemplate(templateId, smtpTemplate).then(function() {
-      console.log('Template updated successfully.');
+      console.log(`Email template #${templateId} updated sucessfully.`);
     }, function(error) {
-      console.error(error);
+      console.error({status: error.response.status, ...error.response.body});
     });
   } else {
     await apiInstance.createSmtpTemplate(smtpTemplate).then(function(data) {
       console.log('Template created successfully with templateId: ' + data.id);
     }, function(error) {
-      console.error(error);
+      console.error({status: error.response.status, ...error.response.body});
     });
   }
 })()
