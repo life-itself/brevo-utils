@@ -2,9 +2,9 @@
 id: 44
 title: "Diginomics-101 Day-1"
 subject: "Day 1: We’re in a new digital economy"
-senderName: "Life itself"
-senderEmail: "hello@lifeitself.org"
-replyTo: "hello@openrevolution.net"
+senderName: "Rufus Pollock"
+senderEmail: "rufus@diginomics.io"
+replyTo: "rufus@diginomics.io"
 ---
 
 # **Day 1: We’re in a new digital economy**

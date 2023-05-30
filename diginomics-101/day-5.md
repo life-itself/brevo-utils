@@ -2,9 +2,9 @@
 id: 48
 title: "Diginomics-101 Day-5"
 subject: "Day 5: Exclusive rights 'property': one way to pay for the first copy"
-senderName: "Life itself"
-senderEmail: "hello@lifeitself.org"
-replyTo: "hello@openrevolution.net"
+senderName: "Rufus Pollock"
+senderEmail: "rufus@diginomics.io"
+replyTo: "rufus@diginomics.io"
 ---
 
 # **Day 5: Exclusive rights "property": one way to pay for the first copy**

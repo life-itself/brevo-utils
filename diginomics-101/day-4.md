@@ -2,9 +2,9 @@
 id: 47
 title: "Diginomics-101 Day-4"
 subject: "Day 4: The magical apple tree: once upon a time in the digital economy"
-senderName: "Life itself"
-senderEmail: "hello@lifeitself.org"
-replyTo: "hello@openrevolution.net"
+senderName: "Rufus Pollock"
+senderEmail: "rufus@diginomics.io"
+replyTo: "rufus@diginomics.io"
 ---
 
 # **Day 4: The magical apple tree: once upon a time in the digital economy**

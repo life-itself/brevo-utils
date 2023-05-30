@@ -2,9 +2,9 @@
 id: 42
 title: "Diginomics-101 Day-0"
 subject: "Day 0: Are you ready to transform your understanding of the digital world?"
-senderName: "Life itself"
-senderEmail: "hello@lifeitself.org"
-replyTo: "hello@openrevolution.net"
+senderName: "Rufus Pollock"
+senderEmail: "rufus@diginomics.io"
+replyTo: "rufus@diginomics.io"
 ---
 
 # **Day 0: Are you ready to transform your understanding of the digital world? 🤯 🗺️**

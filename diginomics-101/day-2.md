@@ -2,9 +2,9 @@
 id: 45
 title: "Diginomics-101 Day-2"
 subject: "Day 2: It’s more than digital, it’s information"
-senderName: "Life itself"
-senderEmail: "hello@lifeitself.org"
-replyTo: "hello@openrevolution.net"
+senderName: "Rufus Pollock"
+senderEmail: "rufus@diginomics.io"
+replyTo: "rufus@diginomics.io"
 ---
 
 # **Day 2: It’s more than digital, it’s information**

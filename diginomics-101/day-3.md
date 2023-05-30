@@ -2,9 +2,9 @@
 id: 46
 title: "Diginomics-101 Day-3"
 subject: "Day 3: Costless copying: the essential difference between atoms and bits"
-senderName: "Life itself"
-senderEmail: "hello@lifeitself.org"
-replyTo: "hello@openrevolution.net"
+senderName: "Rufus Pollock"
+senderEmail: "rufus@diginomics.io"
+replyTo: "rufus@diginomics.io"
 ---
 
 # **Day 3: Costless copying: the essential difference between atoms and bits**

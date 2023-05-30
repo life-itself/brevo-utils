@@ -2,9 +2,9 @@
 id: 49
 title: "Diginomics-101 Day-6"
 subject: "Day 6: Costless copying revisited"
-senderName: "Life itself"
-senderEmail: "hello@lifeitself.org"
-replyTo: "hello@openrevolution.net"
+senderName: "Rufus Pollock"
+senderEmail: "rufus@diginomics.io"
+replyTo: "rufus@diginomics.io"
 ---
 
 # **Day 6: Costless copying revisited**

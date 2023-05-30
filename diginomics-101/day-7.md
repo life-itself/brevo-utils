@@ -2,9 +2,9 @@
 id: 50
 title: "Diginomics-101 Day-7"
 subject: "Day 7: Core tension: access vs innovation"
-senderName: "Life itself"
-senderEmail: "hello@lifeitself.org"
-replyTo: "hello@openrevolution.net"
+senderName: "Rufus Pollock"
+senderEmail: "rufus@diginomics.io"
+replyTo: "rufus@diginomics.io"
 ---
 
 # **Day 7: Core tension: access vs innovation**
@@ -51,7 +51,7 @@ Now whatever one thinks of the profit motive, the sad thing is that in the case 
 
 **So what are the options?** Well, in an ideal world, the hippies and the monopoly capitalists would have a baby, and we would have lots of access and lots of innovation. 
 
-<table width="100%" style="max-width:400px;">
+<table width="100%" style="max-width:600px;">
   <tr><td><img src="https://github.com/life-itself/diginomics/blob/main/brevo-assets/essential-tension-access-vs-innovation.jpeg?raw=true" width="100%" /></td></tr>
 </table>
 
@@ -72,14 +72,17 @@ We’ve covered a lot over these past 7 lessons. Which we hope you’ve found in
 
 🍰 Of course, the learning doesn’t have to stop here if you feel hungry for more! As with all new knowledge, it is best when it is shared! Don’t keep these important topics a secret. We encourage you to engage in conversations with people to start to help us spread the word. 
 
+📣 We’d also really love your feedback on this newly completed course so we can continue to improve it. Tell us what you loved and what could be better [here](https://forms.gle/xBRkMaau6ws1wA8h6).
+
 Secondly, we would like to invite you to come and join us in the next course, _Paying for the First Copy: Designing Digital Business Models_. In this course you can find out: 
 
-	
 
 🤔 How do we pay for the first copy? What options are there? Is there a way out of the core tension? A way to have the best of both worlds?
 
 🍐 We introduce you to the topic of an open revolution and we invite the witch to come back as the village council gets together to consider paying the witch for the magical pear tree.
 
-Join us for this and more here ⏩ [HOLDING - insert course link or place to register here]
+<p style="padding:10px 0;font-size:12px;">
+<a style="padding:8px;background:#343434;color:white;font-weight:bold;text-align:center;text-decoration:none;" href="https://diginomics.io/first-copy">Sign up here</a>
+</p>
 
 Finally, if you haven’t already, you can download my free book The Open Revolution [here](https://diginomics.io/open-revolution)
