@@ -1,8 +1,10 @@
-<table cellpadding="10" style="font-size:10px;"><tr><td>
+<table cellpadding="0" style="font-size: 12px !important;" class="footer"><tr><td>
 
-## Rufus Pollock and Theo Cox
+### Rufus Pollock and Theo Cox
 
 Thanks for reading! We hope you're enjoying the course so far!
+
+If you have any feedback on the course, we’d love to receive it [here](https://docs.google.com/forms/d/e/1FAIpQLSdUWQRW4r8IebMAvkxRwt7VE32BeEwG3sQ-vBoTXfKgSf2EpA/viewform?usp=share_link). 
 
 Help us spread the word and **<a style="color:blue;" href="https://twitter.com/intent/tweet?text=This free Diginomics 101 Masterclass is absolutely fantastic! Well worth signing up to if you're interested in understanding more about the Digital Economy! Sign up here 👉 https://diginomics.io/  #diginomics #digital #economy">tweet</a>** about this course.
 

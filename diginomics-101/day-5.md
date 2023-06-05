@@ -41,6 +41,6 @@ Secondly, these exclusive rights create a monopoly, which leads to massive inequ
 
 In today’s lesson we introduced the problems that can arise when we apply exclusive rights, as we are used to doing in the world of atoms, to the digital economy. **Applying exclusive rights to digital bits can create two major consequences:** people who want or need these items miss out predominantly because they can’t afford the cost to access them and secondly a monopoly is created which leads to mass inequality, even more so than in the physical world.
 
-***
+<br/>
 
 ⏩ Next up… In the old world of atoms, having a simple apple tree didn’t create any problems. All the farmers could supply apples aplenty and no one really missed out. Physically owning property worked well. So surely the problem is costless copying, no? Well, let’s find out in the next lesson…

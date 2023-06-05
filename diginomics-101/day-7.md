@@ -59,8 +59,6 @@ Now whatever one thinks of the profit motive, the sad thing is that in the case 
 
 In the final lesson of Diginomics 101 we learnt about the core tension between access and innovation that arises from costless copying. Access is limited under monopoly capitalism, whilst innovation is limited in hippiedom. So what can we do? Are we limited to simply finding the best trade-off: a bit more access for a bit more innovation or vice versa? **Or is there a way to get the best of both worlds?** 
 
-***
-
 ⏩ Next up… But is this balance even possible? Can we have the best of both worlds? Or are we stuck somewhere on the dotted line? How can we pay for the first copy _and_ have open access? These are all big questions that we address in our next course… 
 
 

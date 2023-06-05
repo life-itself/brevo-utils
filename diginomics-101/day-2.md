@@ -18,10 +18,10 @@ But first, let’s have some fun. Take a look at the image below, and answer thi
 **Of the three items, which one is the odd one out?** 🤔
 
 <table width="100%">
-  <tr><td><img src="https://img.mailinblue.com/2033469/images/6473bc9822ceb_1685306520.jpeg" width="100%" /></td></tr>
+  <tr><td><img src="https://github.com/life-itself/diginomics/blob/main/brevo-assets/day-2.jpeg?raw=true" width="100%" /></td></tr>
 </table>
 
-Shall we tell you? Later . . . first, let’s jump in and examine what it is about digital bits that are so important.
+Shall we tell you? Later ... first, let’s jump in and examine what it is about digital bits that are so important.
 
 
 ## It’s all about the information 
@@ -60,7 +60,7 @@ Now, let’s go back to the images we looked at at the beginning of the lesson t
   <tr><td><img src="https://github.com/life-itself/diginomics/blob/main/brevo-assets/day-2.jpeg?raw=true" width="100%" /></td></tr>
 </table>
 
-We asked you the question: **Which one is the odd one out? **
+We asked you the question: **Which one is the odd one out?**
 
 What do you think?
 
@@ -81,6 +81,5 @@ Is it that it’s faster? Easier? There’s less privacy? Cheaper? … What do y
 
 Today we learnt that we now live in an economy of information, of bits, a digital economy and therefore, whether we are aware or not **_diginomics,_** the rules of the digital economy, influence every aspect of our lives. This has many more far reaching implications than we realise, because we are currently running a new economy of bits (of information) on old rules related to physical atoms, and this is causing rising frustration personally and globally.  
 
-***
 
 ⏩ Next up… In the next lesson we will tell you the **<span style="text-decoration:underline;">essential</span>** difference between digital stuff and atom stuff; we’re going to explain why this difference is so essential and how that single insight can help you understand (almost) everything that is happening in the digital economy.

@@ -66,6 +66,5 @@ However, the ability for anyone who possesses a copy of their goods to then cost
 
 Today we introduced you to Mr Gates and his magical apple tree, who demonstrated what it means to live in a digital economy. We explored the potential pitfalls of costless copying, highlighting that **the first copy is generally expensive and without much guarantee of receiving the investment back**, which makes it risky. Especially, because in the digital economy, **there is the big problem of free-riding**.
 
-***
 
 ⏩ Next up… So, where does this leave Mr Gates? How do we pay for the first copy? And does this mean this information is simply free? Find out in the next lesson.

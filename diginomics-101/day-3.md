@@ -109,6 +109,5 @@ While digital stuff can be copied for free – again _amazing_ – creating the 
 
 In the old economy of atoms, we can’t all wear the same shoes: if you’re wearing them, I can’t be too. But in the new digital world: sharing is not only possible, it's natural. In this new world sharing does not mean less. This ability to share also does not cost more. It is costless, once the first copy has been made.  
 
-***
 
 ⏩ Next up… So what about that “first copy”? Even if all later copies are free we have to find a way to pay for the original article! How are we going to do that and what does it mean for our economy? Tune in tomorrow to find out!

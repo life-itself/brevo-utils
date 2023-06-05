@@ -52,7 +52,7 @@ The outcomes created in our societies are the product of two things. The physica
 
 Exclusive rights + atoms = good ol’ property rights economy (worked pretty well!). Exclusive rights + bits = oh dear really not so good.
 
-In the digital economy, the application of exclusive “intellectual property” rights actually translate into being “monopoly rights” and, as you can probably figure out, these monopoly rights have the same consequence of monopoly as in the economy of atoms: things are more expensive and there is restricted access (not to mention they harm innovation and a whole other array of issues. But for more on this please see our mini course_ Discover Hidden Digital Cause of Rising Inequality_).
+In the digital economy, the application of exclusive “intellectual property” rights actually translate into being “monopoly rights” and, as you can probably figure out, these monopoly rights have the same consequence of monopoly as in the economy of atoms: things are more expensive and there is restricted access (not to mention they harm innovation and a whole other array of issues. But for more on this please see our mini course _Discover Hidden Digital Cause of Rising Inequality_).
 
 OK, but we already live like this, you might be thinking. Well, yes, but hold on, because remember we now live in a digital economy that has atoms in it sometimes, we are no longer in an atom's economy with a sprinkle of digital.
 
@@ -98,7 +98,7 @@ So as you can see, in applying these outdated rules to the digital economy, inte
 
 This is why the growing inequality we see or experience cannot be solved by using old rules in the new economy. Just in the way that we can’t apply these new rules to the old economy either i.e. we can’t share the shoes at the same time, either I wear them or you do. 
 
-We've outlined the negative impacts of using old rules in a new economy. But we’ve also seen a way out. Remember that social outcomes are the product of physical reality and social rules. The physical reality of the digital age, that costlessly copyable bits are fundamentally different from atoms, means that the rules we choose to use can be fundamentally different too. **New rules can lead to new outcomes, and a better economy for all of us. **
+We've outlined the negative impacts of using old rules in a new economy. But we’ve also seen a way out. Remember that social outcomes are the product of physical reality and social rules. The physical reality of the digital age, that costlessly copyable bits are fundamentally different from atoms, means that the rules we choose to use can be fundamentally different too. **New rules can lead to new outcomes, and a better economy for all of us**.
 
 
 ## Today’s summary 
@@ -141,7 +141,5 @@ In today’s lesson we covered a lot! Which is perhaps best summarised in the be
 </table>
 
 <br/>
-
-***
 
 ⏩ Next up… The question of how to balance a digital economy of costless copying (new world) with exclusive rights (old world) is creating a core tension between two areas, that of access and innovation. In the next lesson we will address whether this core tension can be resolved.
