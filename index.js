@@ -50,7 +50,7 @@ import options from "./config.js"
     .processSync(content)
 
   const templateId = frontmatter?.id
-  const html = `<!DOCTTYPE html><html><head><meta http-equiv="Content-Type" content="text/html; charset=utf-8"><meta http-equiv="X-UA-Compatible" content="IE=edge"><meta name="format-detection" content="telephone=no"><meta name="viewport" content="width=device-width, initial-scale=1.0"><title>${frontmatter.title ?? ""}</title><style type="text/css">a, a:link { color: #343434; text-decoration: underline; word-break: break-word; } p, a { font-size: 14px; } .footer p, a { font-size: 12px !important; }</style>
+  const html = `<!DOCTTYPE html><html><head><meta http-equiv="Content-Type" content="text/html; charset=utf-8"><meta http-equiv="X-UA-Compatible" content="IE=edge"><meta name="format-detection" content="telephone=no"><meta name="viewport" content="width=device-width, initial-scale=1.0"><title>${frontmatter.title ?? ""}</title><style type="text/css">a, a:link { color: #343434; text-decoration: underline; word-break: break-word; } p, a { font-size: 14px; } .footer p { font-size: 12px !important; } .footer a { font-size: 12px !important; }</style>
 <!--[if mso]><xml><o:OfficeDocumentSettings><o:AllowPNG/><o:PixelsPerInch>96</o:PixelsPerInch></o:OfficeDocumentSettings></xml><![endif]--></head><body>${header}${body}${footer}</body></html>`
 
   let defaultClient = SibApiV3Sdk.ApiClient.instance;

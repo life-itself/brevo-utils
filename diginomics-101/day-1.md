@@ -31,7 +31,7 @@ We have two different economies operating side by side today.
 
 **The other is the new, digital economy.** This new economy is a world of digital stuff like software, databases and AI. This is the economy that’s taking over: we navigate our trip’s using google maps instead of a physical map, Amazon provides us with everything straight to our front door, and everyone has a smartphone or a computer.
 
-Want to know how significant this is? It is estimated that in 2022 alone we created and consumed 97 _trillion_ gigabytes of digital information. To put that into perspective, if we imagine that a gigabyte is the size of a penny, then 97 trillion gigabytes would create a tower of pennies big enough to go to the moon, back to earth, and then to the moon again _97 times over_.
+Want to know how significant this is? It is estimated that in 2022 alone we created and consumed 97 _trillion_ gigabytes of digital information. To put that into perspective, if we imagine that a gigabyte is the size of a penny, then 97 trillion gigabytes would create a tower of pennies big enough to go to the moon, back to earth, and then to the moon again 97 times over.
 
 This vast number is because today more than ⅔ of the world’s population – 5 billion people – are connected to the internet.
 

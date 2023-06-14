@@ -66,7 +66,7 @@ In the final lesson of Diginomics 101 we learnt about the core tension between a
 
 Firstly, congratulations on reaching the end of our final lesson 🎉. 
 
-We’ve covered a lot over these past 7 lessons. Which we hope you’ve found informative and digestible!
+We’ve covered a lot over these past 7 lessons, which we hope you’ve found informative and digestible!
 
 🍰 Of course, the learning doesn’t have to stop here if you feel hungry for more! As with all new knowledge, it is best when it is shared! Don’t keep these important topics a secret. We encourage you to engage in conversations with people to start to help us spread the word. 
 

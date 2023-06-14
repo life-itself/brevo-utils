@@ -50,9 +50,10 @@ The outcomes created in our societies are the product of two things. The physica
 
 **The same rules have very different results** depending on the nature of the underlying stuff we’re applying the rules to - the atoms or the bits. 
 
-Exclusive rights + atoms = good ol’ property rights economy (worked pretty well!). Exclusive rights + bits = oh dear really not so good.
+Exclusive rights + atoms = good ol’ property rights economy (worked pretty well!). <br/>
+Exclusive rights + bits = oh dear really not so good.
 
-In the digital economy, the application of exclusive “intellectual property” rights actually translate into being “monopoly rights” and, as you can probably figure out, these monopoly rights have the same consequence of monopoly as in the economy of atoms: things are more expensive and there is restricted access (not to mention they harm innovation and a whole other array of issues. But for more on this please see our mini course _Discover Hidden Digital Cause of Rising Inequality_).
+In the digital economy, the application of exclusive “intellectual property” rights actually translate into being “monopoly rights” and, as you can probably figure out, these monopoly rights have the same consequence of monopoly as in the economy of atoms: things are more expensive and there is restricted access (not to mention they harm innovation and a whole other array of issues. But for more on this please see our mini course [Discover Hidden Digital Cause of Rising Inequality](https://diginomics.io/inequality)).
 
 OK, but we already live like this, you might be thinking. Well, yes, but hold on, because remember we now live in a digital economy that has atoms in it sometimes, we are no longer in an atom's economy with a sprinkle of digital.
 
@@ -131,7 +132,7 @@ In today’s lesson we covered a lot! Which is perhaps best summarised in the be
    <td>Private property 
     <p>(bundle of rights)</p>
    </td>
-   <td>Join our course Designing Digital Economies for the answer to this </td>
+   <td>Join our course <a href="https://diginomics.io/design-digital-business-models">Designing Digital Economies</a> for the answer to this </td>
   </tr>
   <tr>
    <td><strong>Challenge</strong></td>

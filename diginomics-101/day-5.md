@@ -34,13 +34,12 @@ Firstly, with exclusive rights, this approach can mean that some people who want
 
 **Are we all going to starve?** Imagine Hansel and Gretel, two poor children, who can’t afford to buy any apples or any food at all. In the free apple world suddenly they had food on the table every day – even if it was just apples! Whereas now they are starving, and they will continue to starve because no one else, apart from Mr Gates, produces apples now - either for free or at a cost.
 
-Secondly, these exclusive rights create a monopoly, which leads to massive inequalities in wealth and power. In the world of the magical apple tree this is demonstrated by all the other apple farmers going out of business and Mr Gates getting very, very rich. Now, although this can and does happen in the digital world, it often shows up more subtly than that as an economy wide phenomena and that is why we can often miss it. For more information on this you can join our _The Hidden Digital Cause of Rising Inequality course_.
+Secondly, these exclusive rights create a monopoly, which leads to massive inequalities in wealth and power. In the world of the magical apple tree this is demonstrated by all the other apple farmers going out of business and Mr Gates getting very, very rich. Now, although this can and does happen in the digital world, it often shows up more subtly than that as an economy wide phenomena and that is why we can often miss it. For more information on this you can join our [The Hidden Digital Cause of Rising Inequality course](https://diginomics.io/inequality).
 
 
 ## Today’s summary
 
 In today’s lesson we introduced the problems that can arise when we apply exclusive rights, as we are used to doing in the world of atoms, to the digital economy. **Applying exclusive rights to digital bits can create two major consequences:** people who want or need these items miss out predominantly because they can’t afford the cost to access them and secondly a monopoly is created which leads to mass inequality, even more so than in the physical world.
 
-<br/>
 
 ⏩ Next up… In the old world of atoms, having a simple apple tree didn’t create any problems. All the farmers could supply apples aplenty and no one really missed out. Physically owning property worked well. So surely the problem is costless copying, no? Well, let’s find out in the next lesson…

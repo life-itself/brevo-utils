@@ -26,13 +26,13 @@ Shall we tell you? Later ... first, let’s jump in and examine what it is about
 
 ## It’s all about the information 
 
-As mentioned in the previous lesson, the fundamental difference between the legacy economy and the new digital economy is that the new digital economy is based on **bits **and the old economy is based on **atoms.**
+As mentioned in the previous lesson, the fundamental difference between the legacy economy and the new digital economy is that the new digital economy is based on **bits** and the old economy is based on **atoms**.
 
 This new economy full of bits can be referred to by a number of terms; the digital economy, the digital world, the information economy and the information world. These terms are all talking about the same thing - these bits, and these bits hold information, so you can think of them as simply ‘bits of information’.
 
 Therefore, the most important, and very simple, concept to understand about the new digital economy is that digital simply means information:
 
-**Digital (Bits) = (Bits of) Information**
+<p style="text-align:center;font-weight:bold;">Digital (Bits) = (Bits of) Information</p>
 
 When this information is accessible through technology then it becomes known as digital information. This ‘digital’ness i.e. the technology, functions as the vehicle that transports and shares (these bits of) information, which is why it is frequently referred to as simply digital. The courier carries your package of atoms, the digital technology carries your bits of information.
 
@@ -43,7 +43,7 @@ It’s important to realise that “digital information” is much more than sof
 
 Think of the formulae for new pharmaceutical drugs to the digital 3D models used to design everyday products like chairs or shoes. Think of the genetic modifications made to many crops, or the temperature and humidity sensors used to control the climates in industrial greenhouses growing food. These all use digital information. It is everywhere.
 
-When we understand that information is simply a sequence of signs humans use to convey meaning, we can see that almost everything in today’s economy is underpinned by digital information somewhere. Which wasn’t the case previously, a key point worth noting as we move through this course. 
+When we understand that information is simply a sequence of signs humans used to convey meaning, we can see that almost everything in today’s economy is underpinned by digital information somewhere. Which wasn’t the case previously, a key point worth noting as we move through this course. 
 
 
 ## Why we get frustrated
@@ -52,7 +52,7 @@ When we understand that information is simply a sequence of signs humans use to 
 
 This lack of understanding, or in reality accessible knowledge, creates frustration and leads to people seeking or accepting support and answers from the wrong places - from people and organisations promoting old world rules (made for atoms) because that's what used to work. This approach, using old rules in a new digital world, only adds to the frustration because these old rules no longer work in a digital economy, and therefore the cycle of frustration continues. 
 
-**So how do we address working with new rules for a new economy?** Well, the digital information economy is fundamentally different from the physical economy in **one **crucial way, through the principle of **costless copying**. When we start to make and live by new rules related to this principle of costless copying we can start to clear the frustration. But more on this in the next lesson. 
+**So how do we address working with new rules for a new economy?** Well, the digital information economy is fundamentally different from the physical economy in **one** crucial way, through the principle of **costless copying**. When we start to make and live by new rules related to this principle of costless copying we can start to clear the frustration. But more on this in the next lesson. 
 
 Now, let’s go back to the images we looked at at the beginning of the lesson today.
 
