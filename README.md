@@ -26,10 +26,9 @@ BREVO_API_KEY=your_api_key
 
 Make sure you have node installed. `node -v`
 
-- cd into the directory `cd scripts/createTemplate`
-- `npm install`
+- Run `npm install`
 - run `node index.js`
-- provide the path to the template/markdoen file eg. `template.md`
+- provide the path to the markdown file you want to convert into a Brevo template e.g. `mycourse/day1.md`
 
 ### Markdown format for creating/updating a template
 
